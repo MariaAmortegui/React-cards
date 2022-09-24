@@ -1,0 +1,21 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+.App{
+    background: linear-gradient(
+        0deg,
+        rgba(120,244,58,1) 0%, 
+        rgba(86,215,133,1) 33%, 
+        rgba(66,206,193,1) 66%,
+        rgba(34,193,195,1) 100%);
+    height: 100%;
+}
+
+.titulo{
+    text-align: center;
+    font-style:oblique;
+}
+p{
+    height: 220px;
+    text-align: center;
+}
